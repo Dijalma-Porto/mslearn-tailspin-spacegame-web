@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: ADO_ORG
+  name: Codespace PAT for Tailspin Toys module
 
 variables:
   buildConfiguration: 'Release'
